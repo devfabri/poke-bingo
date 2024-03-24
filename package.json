@@ -1,0 +1,25 @@
+{
+  "name": "poke-bingo",
+  "version": "1.0.0",
+  "description": "A simple bingo using pokeAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^3.0.2",
+    "chokidar": "^3.6.0",
+    "cssnano": "^6.1.1",
+    "del": "^7.1.0",
+    "express": "^4.19.1",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^10.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-terser": "^2.1.0",
+    "sass": "^1.72.0"
+  }
+}
